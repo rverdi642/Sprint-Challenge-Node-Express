@@ -1,0 +1,29 @@
+{
+  "name": "sprint-challenge-node-express",
+  "version": "1.0.0",
+  "description": "end week project",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "helmet": "^3.13.0",
+    "knex": "^0.15.2",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.18.4",
+    "sqlite3": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon ./data/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rverdi642/Sprint-Challenge-Node-Express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rverdi642/Sprint-Challenge-Node-Express/issues"
+  },
+  "homepage": "https://github.com/rverdi642/Sprint-Challenge-Node-Express#readme"
+}
